@@ -39,7 +39,7 @@ The tasks are organized as follows:
   - [Jupyter Notebook](https://github.com/naqi7272/QML-HEP-GSoC-2025/blob/main/Task_IX_Kolmogorov_Arnold_Network.ipynb)
   - [PDF with Output](https://github.com/naqi7272/QML-HEP-GSoC-2025/blob/main/Task%20IX_%20Kolmogorov-Arnold%20Network%20with%20output.pdf)
 
- - **Task X**: [Diffusion]
+- **Task X**: [Diffusion]
   - [Jupyter Notebook](https://github.com/naqi7272/QML-HEP-GSoC-2025/blob/main/Task_X_Diffusion.ipynb)
   - [PDF with Output](https://github.com/naqi7272/QML-HEP-GSoC-2025/blob/main/Task%20X_%20Diffusion%20with%20output.pdf)
 
